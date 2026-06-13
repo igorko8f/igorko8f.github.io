@@ -1,2 +1,2 @@
-# igorko8f.github.io
-CV
+# Senior Unity Developer
+Unity Developer with 6+ years of experience in mobile, Web, and PC game development. Experienced in designing scalable game systems, optimizing application performance, integrating third-party SDKs, and leading development teams. Strong background in Unity architecture, gameplay systems, analytics integration, and cross-functional collaboration. Passionate about solving complex technical challenges and delivering high-quality products across multiple platforms.
